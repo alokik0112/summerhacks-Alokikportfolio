@@ -1,14 +1,15 @@
 # summerhacks-projectName
 Template For Summer Hacks Project Submission
-𝐇𝐞𝐥𝐥𝐨 Everyone! 
+
+
+
+𝐇𝐞𝐥𝐥𝐨 🙂
 
  Name of the Project: Alokik Portfolio Website
   
   Table of Contents: assets, css, index.html, README.md
   
   About: A simple  website showcasing portfolio 
-  
-  Inspirations: N/A
         
   Installation Instructions: Just click on the deployment link below.
   
@@ -16,7 +17,6 @@ Template For Summer Hacks Project Submission
   
   Challenges you faced: Css and Github was difficult for me.
  
-  
   Future Improvements:Try to learn javascript and try to imply it on further websites.
   
   Team Members: None
